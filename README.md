@@ -6,7 +6,7 @@ This mod includes 2 versions of Shimmy, "pointing" Shimmy and "probe and drogue"
 
 ##CREDITS
 
-* Internal seats credit to: NoMrBond - Creative Commons BY 3.0 NZ
+* "Throne" credit to: NoMrBond - Creative Commons BY 3.0 NZ
 
 * Firespitter - Snjo - License: You may reuse code and textures from this mod, as long as you give credit in the download file and on the download post/page. Reuse of models with permission. No reselling. No redistribution of the whole pack without permission. UV map texture guides are included so you can re-skin to your liking.
 
