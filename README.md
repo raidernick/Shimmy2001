@@ -1,8 +1,8 @@
 This mod includes 2 versions of Shimmy, "pointing" Shimmy and "probe and drogue" Shimmy. It also includes a Monolith(tacolith).
 
-**Picture Album:** 
+**Youtube Video:** 
 
-![alt tag]()
+[![2001: A Sacking Odyssey with ShimmytheJJ](http://img.youtube.com/vi/RAFNNk_XYqo/0.jpg)](http://www.youtube.com/watch?v=RAFNNk_XYqo "2001: A Sacking Odyssey with ShimmytheJJ")
 
 ##CREDITS
 
